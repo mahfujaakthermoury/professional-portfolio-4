@@ -15,13 +15,14 @@ body{
     padding-left: 5%;
 }
 .text-color{
-    color: orange;
+    color: rgb(0, 195, 255);
 }
 .link-color{
     padding: 10px 40px;
     text-decoration: none;
+    color: white;
     background-image:
-     linear-gradient(red,yellow);
+     linear-gradient(rgb(0, 195, 255),rgb(250, 61, 171));
      border-radius: 10px;
 }
 
